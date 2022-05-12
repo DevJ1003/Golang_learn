@@ -8,8 +8,4 @@ func main() {
 
 	fmt.Printf("%s", string(i))
 
-	fmt.Printf("%s", string(i))
-
-	fmt.Printf("%s", string(i))
-
 }
