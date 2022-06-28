@@ -15,3 +15,5 @@ excercise-3 => excercise6.go
 excercise-3 => excercise7.go
 
 section4 => arrays_initialize.go -- os.Stdout -- line 36
+
+section4 => slices_make.go == make and append
