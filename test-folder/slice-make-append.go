@@ -26,4 +26,8 @@ func main() {
 	fmt.Println(s4)
 	fmt.Println("\n\n")
 
+	s5 := make([]int, 2, 3) // length and capacity printed
+	fmt.Println(s5)
+	fmt.Println("\n\n")
+
 }

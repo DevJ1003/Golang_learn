@@ -1,9 +1,0 @@
-excercise-3 => excercise5.go
-
-{               rand.seed(value) fucntion
-SAME                rand.Intn implimentation
-{               rand.Seed(time.Now().UnixNano()) == rand.seed(value) function implimentation {excercise-3==excercise6, excercise7}
-
-section4 => arrays_initialize.go -- os.Stdout -- line 36
-
-section4 => slices_make.go == make and append

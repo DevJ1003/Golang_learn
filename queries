@@ -1,0 +1,9 @@
+excercise-3 => excercise5.go
+
+{               
+                rand.seed(value) fucntion
+                rand.Intn implimentation
+                rand.Seed(time.Now().UnixNano()) == rand.seed(value) function implimentation {excercise-3==excercise6, excercise7}
+{
+
+os.Stdout == uses

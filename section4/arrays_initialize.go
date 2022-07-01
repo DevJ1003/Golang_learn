@@ -33,6 +33,11 @@ func main() {
 		fmt.Print(nums[j], " ")
 	}
 
-	fmt.Fprintf(os.Stdout, "\n%d", j)
+	fmt.Fprintf(os.Stdout, "\n%d\n\n", j)
+
+	sums := []int{4, 5, 6}
+	fmt.Println(sums)
+	fmt.Printf("\n\n")
+	fmt.Fprintln(os.Stdout, sums)
 
 }
