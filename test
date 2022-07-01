@@ -1,18 +1,8 @@
-float32 and float 64
-
-excercise-2 => excercise 7
-
-excercise-2 => excercise 13
-
-section3 => switch.go
-
-excercise-3 => excercise3.go
-
 excercise-3 => excercise5.go
 
-excercise-3 => excercise6.go
-
-excercise-3 => excercise7.go
+{               rand.seed(value) fucntion
+SAME                rand.Intn implimentation
+{               rand.Seed(time.Now().UnixNano()) == rand.seed(value) function implimentation {excercise-3==excercise6, excercise7}
 
 section4 => arrays_initialize.go -- os.Stdout -- line 36
 

@@ -15,9 +15,10 @@ func main() {
 	fmt.Printf("%v\n\n", nums)
 
 	s1 := []int{1, 3, 5} // 1st slice
-	s2 := make([]int, 2) // 2nd slice
 
+	s2 := make([]int, 2) // 2nd slice
 	copy(s2, s1)
+
 	s3 := append(s2, 4, 6) // 3rd slice
 
 	fmt.Println(s1, s2, s3)
