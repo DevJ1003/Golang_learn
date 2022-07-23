@@ -11,3 +11,6 @@ excercise-3 => excercise5.go
 os.Stdout == uses
 
 section6
+
+section7 == pointers_slice_int.go
+section7 == pointers_func.go
