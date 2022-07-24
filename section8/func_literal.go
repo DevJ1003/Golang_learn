@@ -1,0 +1,24 @@
+package main
+
+import "fmt"
+
+func main() {
+
+	printMsg("Calling a function!")
+
+	showMsg := func(msg string) {
+		fmt.Println(msg)
+	}
+
+	showMsg("Using a function!")
+	fmt.Printf("%T\n", showMsg)
+
+	func(msg string) {
+		fmt.Println(msg)
+	}("Quickly reacting!")
+
+}
+
+func printMsg(msg string) {
+	fmt.Println(msg)
+}
