@@ -12,9 +12,9 @@ func main() {
 
 	// Only use one of the following at the same time.
 
-	// var x map[string]int
-	// x["key"] = 10
-	// fmt.Println(x)
+	var x map[string]int
+	x["key"] = 10
+	fmt.Println(x)
 
 	// ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
