@@ -16,3 +16,5 @@ section7 == pointers_slice_int.go
 section7 == pointers_func.go
 
 section8 == recursion
+
+section9 = go install github.com/fxtlabs/date@latest NOT INSTALLING, struct_compare.go, struct_exported.go & ./types/player.go
